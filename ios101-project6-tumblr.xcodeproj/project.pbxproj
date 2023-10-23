@@ -33,7 +33,7 @@
 		ED59162329BC4921000F25AE /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		ED59162529BC4CC8000F25AE /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		F77106E52AE63BC700621A99 /* PostDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailViewController.swift; sourceTree = "<group>"; };
-		F77106E72AE6432E00621A99 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F77106E72AE6432E00621A99 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "ios101-project6-tumblr/README.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +51,7 @@
 		ED59160329BC307D000F25AE = {
 			isa = PBXGroup;
 			children = (
+				F77106E72AE6432E00621A99 /* README.md */,
 				ED59160E29BC307D000F25AE /* ios101-project6-tumblr */,
 				ED59160D29BC307D000F25AE /* Products */,
 			);
@@ -67,7 +68,6 @@
 		ED59160E29BC307D000F25AE /* ios101-project6-tumblr */ = {
 			isa = PBXGroup;
 			children = (
-				F77106E72AE6432E00621A99 /* README.md */,
 				ED59160F29BC307D000F25AE /* AppDelegate.swift */,
 				ED59161129BC307D000F25AE /* SceneDelegate.swift */,
 				ED59161329BC307D000F25AE /* ViewController.swift */,
