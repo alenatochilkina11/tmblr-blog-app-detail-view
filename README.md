@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Video Walkthrough]()
+[Video Walkthrough](tumblr_blog_walkthrough_deatil_view.gif)
 
 ## Notes
 
