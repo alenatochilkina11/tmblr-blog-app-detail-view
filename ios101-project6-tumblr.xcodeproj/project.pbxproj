@@ -17,6 +17,7 @@
 		ED59162429BC4921000F25AE /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED59162329BC4921000F25AE /* Post.swift */; };
 		ED59162629BC4CC8000F25AE /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED59162529BC4CC8000F25AE /* PostCell.swift */; };
 		ED59162929BC50E7000F25AE /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = ED59162829BC50E7000F25AE /* Nuke */; };
+		F77106E62AE63BC700621A99 /* PostDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F77106E52AE63BC700621A99 /* PostDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,8 @@
 		ED59161D29BC307E000F25AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED59162329BC4921000F25AE /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		ED59162529BC4CC8000F25AE /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		F77106E52AE63BC700621A99 /* PostDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailViewController.swift; sourceTree = "<group>"; };
+		F77106E72AE6432E00621A99 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "ios101-project6-tumblr/README.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +51,7 @@
 		ED59160329BC307D000F25AE = {
 			isa = PBXGroup;
 			children = (
+				F77106E72AE6432E00621A99 /* README.md */,
 				ED59160E29BC307D000F25AE /* ios101-project6-tumblr */,
 				ED59160D29BC307D000F25AE /* Products */,
 			);
@@ -69,6 +73,7 @@
 				ED59161329BC307D000F25AE /* ViewController.swift */,
 				ED59162529BC4CC8000F25AE /* PostCell.swift */,
 				ED59162329BC4921000F25AE /* Post.swift */,
+				F77106E52AE63BC700621A99 /* PostDetailViewController.swift */,
 				ED59161529BC307D000F25AE /* Main.storyboard */,
 				ED54EF4C29D5382800B6AD22 /* String+Extensions.swift */,
 				ED59161829BC307E000F25AE /* Assets.xcassets */,
@@ -156,6 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED59161429BC307D000F25AE /* ViewController.swift in Sources */,
+				F77106E62AE63BC700621A99 /* PostDetailViewController.swift in Sources */,
 				ED59161029BC307D000F25AE /* AppDelegate.swift in Sources */,
 				ED59161229BC307D000F25AE /* SceneDelegate.swift in Sources */,
 				ED59162429BC4921000F25AE /* Post.swift in Sources */,
